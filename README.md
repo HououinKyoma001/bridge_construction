@@ -1,6 +1,7 @@
 # Bridge Construction
 Code for paper: Learning Design and Construction with Varying-Sized Materials via Prioritized Memory Resets.
 ![7obj_seq](7obj_seq_sim.png)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/HououinKyoma001/bridge_construction)
 ## Installation
 ```
 conda env create -f environment.yml
